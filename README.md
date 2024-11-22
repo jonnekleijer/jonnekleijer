@@ -73,11 +73,11 @@ Welcome to my professional portfolio! With years of experience in software devel
 
 ## 📫 Get in Touch
 
-- **Portfolio**: [My Website](https://www.nautilusit.nl/)
-- **LinkedIn**: [linkedin.com/in/jonnekleijer](#)
+- **Portfolio**: [Nautilus IT](https://www.nautilusit.nl/)
+- **LinkedIn**: [linkedin.com/in/jonnekleijer](https://www.linkedin.com/in/jonnekleijer)
 - **Email**: jonne@nautilusit.nl
 
-Feel free to explore my projects and connect with me for exciting collaborations!
+Feel free to explore my projects and connect with me for collaborations!
 
 
 <a href="https://www.buymeacoffee.com/jonnekleijer"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=jonnekleijer&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
