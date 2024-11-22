@@ -73,10 +73,9 @@ Welcome to my professional portfolio! With years of experience in software devel
 
 ## 📫 Get in Touch
 
-- **Portfolio**: [My Website](#)
+- **Portfolio**: [My Website](https://www.nautilusit.nl/)
 - **LinkedIn**: [linkedin.com/in/jonnekleijer](#)
-- **Email**: jonnekleijer@example.com
-- **GitHub**: [github.com/jonnekleijer](#)
+- **Email**: jonne@nautilusit.nl
 
 Feel free to explore my projects and connect with me for exciting collaborations!
 
