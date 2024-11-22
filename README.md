@@ -1,29 +1,30 @@
 # 👋 Jonne Kleijer 👋
 
-Welcome to my professional portfolio! With years of experience in software development, data-intensive backend solutions, IoT platforms, and GIS applications, I thrive on building innovative, scalable, and efficient systems that solve real-world challenges. Here's an overview of my expertise and key projects.
+Welcome to my professional portfolio! With years of experience in software development, data-intensive backend solutions, IoT platforms, and GIS applications, I enjoy building innovative, scalable, and efficient systems that solve real-world challenges. Here's an overview of my expertise and key projects.
 
 ---
 
 ## 🚀 Expertise
 
-- **Software Development**: Full-stack development, backend services, API design and frontend.
-- **Cloud Computing**: Azure infrastructure, Terraform, Kubernetes, CI/CD pipelines.
-- **Data Analytics**: Timeseries ingestion, anomaly detection, machine learning integration.
-- **Technologies**: Python, C#, TypeScript, React, Angular, Azure, PostgreSQL and Docker
-- **GIS & Hydrology**: Hydraulic modeling, spatial analysis, and urban water resilience tools.ore.
+- **Software Development**: Focussed on development of backend services with experience in multiple frontend technologies.
+- **Cloud Computing**: Build Azure infrastructures with various technologies.
+- **CI/CD**: Set up pipelines, deploy with Infrastructure as Code.
+- **Data Analytics**: Timeseries ingestion, anomaly detection, machine learning and third party software integration.
+- **Technologies**: C#, .NET, Terraform, Azure with numberous services, Databases (such as PostgreSQL and SqlServer), Kubernetes, Docker
+- **Domains**: Energy, EV Charging, Urban Water, Geo Science, (Geo)Hydrology, Hydraulic and Climate Modeling.
 
 ---
 
 ## 🌟 Notable Projects
 
-### 🌐 [Eve-Cloud](https://apps.apple.com/nl/app/eve-connect-alfen/id6450367472){:target="_blank"}
+### 🌐 [Eve-Cloud](https://apps.apple.com/nl/app/eve-connect-alfen/id6450367472)
 **Client**: Alfen  
 **Goal**: Scalable backend for managing 10,000+ EV charging stations via OCPP.  
 **Highlights**:
 - Developed infrastructure-as-code with Azure and Terraform.
 - Created API endpoints and a proof-of-ownership flow in TypeScript.
 - Designed a gateway for managing WebSocket connections and resource-intensive requests.
-- **Technologies**: Azure Functions, Service Bus, Kafka, Docker, PostgreSQL, NestJS.
+- **Technologies**: .NET, C#, Azure Functions, Service Bus, Kafka, Docker, PostgreSQL, React Native.
 
 ---
 
@@ -34,7 +35,7 @@ Welcome to my professional portfolio! With years of experience in software devel
 - Designed authentication and role-based access control.
 - Automated deployments and CI/CD using Terraform and GitHub Actions.
 - Built scalable APIs and a TypeScript client for integration.
-- **Technologies**: React, Azure Functions, CosmosDB, Terraform.
+- **Technologies**: .NET, C#, Azure Functions, CosmosDB, Terraform, React, TypeScript.
 
 ---
 
@@ -45,7 +46,7 @@ Welcome to my professional portfolio! With years of experience in software devel
 - Scaled from software engineer to architect, leading a team of 20 developers.
 - Integrated machine learning for sensor quality labeling and predictive analytics.
 - Led third-party integration with Tableau, Grafana, and PowerBI.
-- **Technologies**: Azure Data Explorer, SignalR, Angular, Docker, CosmosDB.
+- **Technologies**: .NET, C#, Azure Data Explorer, Azure Service Bus, SignalR, Angular, Docker, CosmosDB.
 
 ---
 
@@ -65,19 +66,10 @@ Welcome to my professional portfolio! With years of experience in software devel
 - **Catch Tool**: Web app for sustainable water management.  
   - **Technologies**: Python, Django, Angular, Wagtail.
 - **Nereda Design Tool**: Wastewater treatment plant parametric design.  
-  - **Technologies**: Parapy, React, Docker.
+  - **Technologies**: Parapy, React, Docker, Kubernetes, Hydraulic Modelling.
 
 ---
 
-## 🛠️ Core Technical Skills
-
-- **Programming**: Python, C#, TypeScript, JavaScript.
-- **Cloud Services**: Azure (Functions, Pipelines, Kubernetes), Terraform.
-- **GIS Tools**: QGIS, PostGIS, ArcGIS.
-- **Databases**: PostgreSQL, CosmosDB, SQLServer.
-- **DevOps**: Docker, Kubernetes, CI/CD pipelines.
-
----
 
 ## 📫 Get in Touch
 
