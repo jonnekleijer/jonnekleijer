@@ -16,7 +16,7 @@ Welcome to my professional portfolio! With years of experience in software devel
 
 ## 🌟 Notable Projects
 
-### 🌐 <a href="https://apps.apple.com/nl/app/eve-connect-alfen/id6450367472" target="_blank">Eve-Cloud</a>
+### 🌐 [Eve-Cloud](https://apps.apple.com/nl/app/eve-connect-alfen/id6450367472){:target="_blank"}
 **Client**: Alfen  
 **Goal**: Scalable backend for managing 10,000+ EV charging stations via OCPP.  
 **Highlights**:
